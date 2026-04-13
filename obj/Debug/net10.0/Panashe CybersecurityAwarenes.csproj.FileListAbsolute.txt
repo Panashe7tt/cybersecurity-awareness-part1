@@ -1,0 +1,19 @@
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\Panashe CybersecurityAwarenes.exe
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\System.Windows.Extensions.dll
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.csproj.AssemblyReference.cache
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.AssemblyInfoInputs.cache
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.AssemblyInfo.cs
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.csproj.CoreCompileInputs.cache
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe .F7DDB36B.Up2Date
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.dll
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\refint\Panashe CybersecurityAwarenes.dll
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.pdb
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\greetings (1).wav
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\Panashe CybersecurityAwarenes.deps.json
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\Panashe CybersecurityAwarenes.runtimeconfig.json
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\Panashe CybersecurityAwarenes.dll
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\bin\Debug\net10.0\Panashe CybersecurityAwarenes.pdb
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\Panashe CybersecurityAwarenes.genruntimeconfig.cache
+C:\Users\Panache\source\repos\Panashe CybersecurityAwarenes\Panashe CybersecurityAwarenes\obj\Debug\net10.0\ref\Panashe CybersecurityAwarenes.dll
